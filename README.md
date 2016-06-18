@@ -1,2 +1,5 @@
 # ark-ai
- Open Distributed A.I.
+ ARK.AI - Open Distributed A.I.
+ 
+ ARK.AI 
+ 
