@@ -1,4 +1,4 @@
-### ARK.AI - Open Source Distributed A.I.
+### ARK.AI - Open Distributed A.I.
 
 ### Inspiration:
 
