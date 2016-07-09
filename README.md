@@ -15,3 +15,7 @@ We are also proposing the creation of open standards for easy payments between A
 2. Create open standards for allowing individual A.I. Agents to easely interface with the Open Distributed AI.
 3. Create a reputation systems for rating individual A.I. agents.
 4. Any AI agent should be able to provide skills for a fee or for free. This implies the creation of open standards for inter A.I. agent payments or for outside services which will use the skills provided by the A.I. agents.
+
+### Next:
+
+Join the mission!
