@@ -1,6 +1,4 @@
 ### ARK.AI - Open Source Distributed A.I.
- 
-ARK.AI is the quest for creating an Open Source Distributed A.I.
 
 ### Inspiration:
 
